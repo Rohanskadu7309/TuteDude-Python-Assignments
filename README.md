@@ -1,2 +1,2 @@
-# TuteDude-Python-Assignment
+# TuteDude-Python-Assignments
 TuteDude Python Assignments
