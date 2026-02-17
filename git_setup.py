@@ -18,4 +18,6 @@ to set upstream : git push --set-upstream origin main
 
 to create new branch: git checkout -b branch_name
 to switch branch : git checkout brnach_name_here
+
+to clone app/project/repo : git clone git_repo_url
 """
